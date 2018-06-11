@@ -1,1 +1,1 @@
-# content-plugins
+# contributed-content-plugins
